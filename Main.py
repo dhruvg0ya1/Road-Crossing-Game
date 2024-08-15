@@ -1,8 +1,8 @@
 import time
 from turtle import Screen
-from Player import Player
-from Car import Car
-from Scoreboard import Scoreboard
+from Resources.Player import Player
+from Resources.Car import Car
+from Resources.Scoreboard import Scoreboard
 
 
 s = Screen()
